@@ -1,0 +1,10 @@
+C:\Users\egorg\source\repos\ПИ32_Гусев_NUM4\ПИ32_Гусев_NUM4\bin\Debug\ПИ32_Гусев_NUM4.exe.config
+C:\Users\egorg\source\repos\ПИ32_Гусев_NUM4\ПИ32_Гусев_NUM4\bin\Debug\ПИ32_Гусев_NUM4.exe
+C:\Users\egorg\source\repos\ПИ32_Гусев_NUM4\ПИ32_Гусев_NUM4\bin\Debug\ПИ32_Гусев_NUM4.pdb
+C:\Users\egorg\source\repos\ПИ32_Гусев_NUM4\ПИ32_Гусев_NUM4\obj\Debug\ПИ32_Гусев_NUM4.csproj.AssemblyReference.cache
+C:\Users\egorg\source\repos\ПИ32_Гусев_NUM4\ПИ32_Гусев_NUM4\obj\Debug\ПИ32_Гусев_NUM4.Form1.resources
+C:\Users\egorg\source\repos\ПИ32_Гусев_NUM4\ПИ32_Гусев_NUM4\obj\Debug\ПИ32_Гусев_NUM4.Properties.Resources.resources
+C:\Users\egorg\source\repos\ПИ32_Гусев_NUM4\ПИ32_Гусев_NUM4\obj\Debug\ПИ32_Гусев_NUM4.csproj.GenerateResource.cache
+C:\Users\egorg\source\repos\ПИ32_Гусев_NUM4\ПИ32_Гусев_NUM4\obj\Debug\ПИ32_Гусев_NUM4.csproj.CoreCompileInputs.cache
+C:\Users\egorg\source\repos\ПИ32_Гусев_NUM4\ПИ32_Гусев_NUM4\obj\Debug\ПИ32_Гусев_NUM4.exe
+C:\Users\egorg\source\repos\ПИ32_Гусев_NUM4\ПИ32_Гусев_NUM4\obj\Debug\ПИ32_Гусев_NUM4.pdb
